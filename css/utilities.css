@@ -26,7 +26,7 @@
 
 .btn-outline {
   background-color: transparent;
-  border: 1px #fff solid;
+  border: 2px rgb(241, 69, 69) solid;
 }
 
 .btn:hover {
